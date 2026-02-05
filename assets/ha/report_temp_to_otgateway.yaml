@@ -23,8 +23,8 @@ blueprint:
       selector:
         entity:
           multiple: false
-          filter:
-            - domain: number
+#          filter:
+#            - domain: number
 
 mode: single
 variables:
